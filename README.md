@@ -13,7 +13,7 @@
 * Thay thế bằng hằng số
 * Thay thế bằng giá trị trung bình, trung vị hay phổ biến nhất của cột đó
 ### 2.3. Một số cách nâng cao
-* KNN
-* MICE
+* KNN (K-Nearest Neighbor)
+* MICE (Multivariate imputation by chained equations)
 * XGBoost Algorithms
 * LightGBM Algorithms
